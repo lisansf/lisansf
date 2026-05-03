@@ -7,7 +7,7 @@
 | [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) |  |
 | [![](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) |  | [![](https://skillicons.dev/icons?i=bevy)](https://skillicons.dev) |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lisanshidqifarizan&theme=dark&hide_border=true&border_radius=0&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lisansf&theme=dark&hide_border=true&border_radius=0&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
   
 [![roadmap.sh](https://roadmap.sh/card/wide/69a3dda030925304699903c5?variant=dark&roadmaps=full-stack%2Crust%2Cfrontend%2Cbackend)](https://roadmap.sh)
   
