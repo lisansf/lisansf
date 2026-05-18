@@ -5,7 +5,7 @@
 | Language | Framework | Engine |
 |------|------|------|
 | [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) |  |
-| [![](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) |  | [![](https://skillicons.dev/icons?i=bevy)](https://skillicons.dev) |
+| [![](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) | AXUM | [![](https://skillicons.dev/icons?i=bevy)](https://skillicons.dev) |
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lisansf&theme=dark&hide_border=true&border_radius=0&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
   
